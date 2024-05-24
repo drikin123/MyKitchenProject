@@ -1,0 +1,4 @@
+repository "My Kitchen@unity_76E42402ACE60C34F1BA@cloud"
+  path "/"
+    br "/main"
+    co "/main"
